@@ -1,0 +1,251 @@
+Appointment_ID,Appointment_Date,City,Department,Booking_Mode,Insurance_Status,Patient_Age,Waiting_Time_Min,Consultation_Duration_Min,Consultation_Fee_INR,Patient_Satisfaction_Score,Wait_To_Consult_Ratio,Risk_Status,Age_Group
+A1125,2025-01-20,Mumbai,General Medicine,Online,Self-Pay,41.0,54.0,17,350.0,7.2,3.18,OK,40-59
+A1056,2026-07-29,Delhi,Pediatrics,Walk-in,Insured,2.0,34.0,18,350.0,8.2,1.89,OK,0-14
+A1051,2025-04-22,Mumbai,Cardiology,Online,Insured,49.0,33.0,16,1050.0,6.9,2.06,OK,40-59
+A1220,2026-02-20,Delhi,Orthopaedics,Online,Self-Pay,39.0,5.0,10,700.0,7.9,0.5,OK,15-39
+A1152,2026-10-17,Pune,General Medicine,Walk-in,Insured,73.0,31.0,21,500.0,7.2,1.48,OK,60+
+A1239,2025-12-02,Bengaluru,General Medicine,Online,Self-Pay,27.0,34.0,18,500.0,7.8,1.89,OK,15-39
+A1245,2025-08-17,Lucknow,General Medicine,Online,Insured,55.0,46.0,17,450.0,6.6,2.71,OK,40-59
+A1014,2025-05-02,Delhi,General Medicine,Walk-in,Insured,61.0,51.0,14,500.0,5.7,3.64,At Risk,60+
+A1208,2026-01-03,Mumbai,General Medicine,Online,Self-Pay,85.0,28.0,16,350.0,8.0,1.75,OK,60+
+A1003,2026-02-16,Bengaluru,Orthopaedics,Online,Self-Pay,42.0,20.0,15,850.0,7.5,1.33,OK,40-59
+A1167,2025-01-15,Lucknow,Pediatrics,Walk-in,Self-Pay,14.0,35.0,11,500.0,4.7,3.18,At Risk,0-14
+A1139,2026-10-20,Mumbai,Orthopaedics,Online,Insured,61.0,16.0,16,650.0,8.3,1.0,OK,60+
+A1018,2026-03-03,Mumbai,Orthopaedics,Walk-in,Insured,69.0,13.0,10,800.0,5.0,1.3,At Risk,60+
+A1022,2025-08-23,Mumbai,Cardiology,Walk-in,Self-Pay,81.0,26.0,17,900.0,6.9,1.53,OK,60+
+A1218,2026-02-15,Delhi,Orthopaedics,Phone,Insured,45.0,53.0,9,900.0,5.0,5.89,At Risk,40-59
+A1179,2026-05-26,Delhi,Pediatrics,Phone,Insured,3.0,16.0,21,350.0,10.0,0.76,OK,0-14
+A1098,2026-06-09,Mumbai,General Medicine,Phone,Insured,29.0,41.0,8,300.0,5.5,5.12,At Risk,15-39
+A1135,2025-10-11,Delhi,Cardiology,Online,Insured,49.0,39.0,25,1250.0,7.5,1.56,OK,40-59
+A1192,2026-09-14,Bengaluru,Orthopaedics,Online,Insured,32.0,47.0,8,800.0,5.4,5.88,At Risk,15-39
+A1032,2025-11-29,Bengaluru,Pediatrics,Walk-in,Insured,1.0,35.0,14,550.0,5.9,2.5,At Risk,0-14
+A1021,2025-04-18,Delhi,Cardiology,Online,Insured,70.0,50.0,13,1200.0,6.3,3.85,OK,60+
+A1233,2025-08-07,Lucknow,General Medicine,Phone,Insured,69.0,18.0,16,400.0,7.5,1.12,OK,60+
+A1138,2025-10-25,Delhi,General Medicine,Online,Insured,37.0,31.0,16,300.0,9.2,1.94,OK,15-39
+A1165,2026-11-15,Lucknow,General Medicine,Phone,Insured,15.0,46.0,24,450.0,4.4,1.92,At Risk,15-39
+A1215,2026-09-15,Pune,Pediatrics,Online,Self-Pay,13.0,21.0,20,550.0,6.0,1.05,OK,0-14
+A1016,2024-12-07,Mumbai,General Medicine,Walk-in,Insured,39.0,53.0,25,400.0,5.4,2.12,At Risk,15-39
+A1153,2025-11-29,Pune,Orthopaedics,Walk-in,Insured,56.0,63.0,12,600.0,5.6,5.25,At Risk,40-59
+A1136,2024-12-30,Mumbai,General Medicine,Phone,Insured,30.0,35.0,12,450.0,7.1,2.92,OK,15-39
+A1037,2025-01-26,Lucknow,Pediatrics,Walk-in,Insured,5.0,24.0,18,450.0,6.8,1.33,OK,0-14
+A1055,2025-04-21,Lucknow,General Medicine,Online,Insured,9.0,25.0,23,250.0,9.5,1.09,OK,0-14
+A1093,2025-07-23,Bengaluru,Pediatrics,Phone,Self-Pay,9.0,42.0,12,700.0,5.3,3.5,At Risk,0-14
+A1163,2025-09-25,Mumbai,Orthopaedics,Online,Insured,28.0,27.0,22,1000.0,9.2,1.23,OK,15-39
+A1009,2025-07-03,Bengaluru,Cardiology,Online,Insured,45.0,29.0,20,1150.0,9.0,1.45,OK,40-59
+A1133,2025-04-03,Lucknow,Cardiology,Online,Insured,55.0,32.0,10,1050.0,6.0,3.2,OK,40-59
+A1063,2026-05-20,Mumbai,Orthopaedics,Online,Insured,44.0,34.0,22,750.0,8.2,1.55,OK,40-59
+A1095,2026-10-19,Delhi,Pediatrics,Walk-in,Insured,8.0,43.0,13,550.0,4.8,3.31,At Risk,0-14
+A1069,2026-09-12,Bengaluru,Pediatrics,Phone,Insured,4.0,49.0,13,550.0,5.4,3.77,At Risk,0-14
+A1196,2026-01-06,Lucknow,General Medicine,Online,Insured,43.0,49.0,12,350.0,7.0,4.08,OK,40-59
+A1193,2025-01-14,Mumbai,General Medicine,Walk-in,Self-Pay,17.0,45.0,18,400.0,5.9,2.5,At Risk,15-39
+A1085,2026-11-08,Mumbai,General Medicine,Online,Insured,11.0,43.0,13,200.0,8.1,3.31,OK,0-14
+A1206,2025-09-19,Bengaluru,Pediatrics,Online,Self-Pay,13.0,37.0,17,300.0,7.5,2.18,OK,0-14
+A1046,2024-12-06,Mumbai,General Medicine,Online,Insured,26.0,43.0,13,200.0,7.8,3.31,OK,15-39
+A1054,2025-05-18,Bengaluru,Pediatrics,Walk-in,Insured,3.0,50.0,16,850.0,6.5,3.12,OK,0-14
+A1026,2026-07-07,Delhi,General Medicine,Walk-in,Insured,39.0,41.0,15,600.0,7.8,2.73,OK,15-39
+A1197,2026-08-01,Bengaluru,General Medicine,Phone,Insured,17.0,60.0,6,600.0,4.9,10.0,At Risk,15-39
+A1123,2025-11-30,Delhi,General Medicine,Walk-in,Self-Pay,44.0,31.0,16,500.0,5.7,1.94,At Risk,40-59
+A1211,2024-11-26,Pune,Pediatrics,Walk-in,Insured,13.0,32.0,17,600.0,7.0,1.88,OK,0-14
+A1219,2026-09-09,Lucknow,Cardiology,Online,Insured,54.0,31.0,20,1100.0,6.8,1.55,OK,40-59
+A1249,2025-01-27,Lucknow,Cardiology,Online,Self-Pay,85.0,37.0,17,1250.0,7.7,2.18,OK,60+
+A1102,2025-11-15,Bengaluru,Pediatrics,Online,Insured,9.0,37.0,26,450.0,7.8,1.42,OK,0-14
+A1158,2026-09-01,Mumbai,General Medicine,Walk-in,Self-Pay,22.0,33.0,6,500.0,5.9,5.5,At Risk,15-39
+A1176,2025-01-07,Pune,Pediatrics,Online,Insured,4.0,34.0,18,550.0,5.8,1.89,At Risk,0-14
+A1006,2025-08-30,Delhi,Orthopaedics,Online,Insured,32.0,26.0,16,700.0,9.2,1.62,OK,15-39
+A1210,2026-08-18,Delhi,Orthopaedics,Phone,Self-Pay,41.0,22.0,20,800.0,8.4,1.1,OK,40-59
+A1122,2026-08-04,Mumbai,Cardiology,Phone,Self-Pay,58.0,16.0,22,1150.0,8.9,0.73,OK,40-59
+A1047,2026-10-03,Lucknow,General Medicine,Walk-in,Insured,52.0,45.0,15,600.0,6.1,3.0,OK,40-59
+A1238,2026-11-19,Bengaluru,Cardiology,Walk-in,Insured,75.0,47.0,15,1250.0,4.2,3.13,At Risk,60+
+A1143,2025-09-02,Lucknow,General Medicine,Online,Insured,47.0,37.0,7,300.0,3.9,5.29,At Risk,40-59
+A1148,2025-12-09,Lucknow,General Medicine,Walk-in,Insured,20.0,10.0,17,600.0,7.1,0.59,OK,15-39
+A1079,2025-06-13,Mumbai,Orthopaedics,Online,Insured,18.0,7.0,18,850.0,8.9,0.39,OK,15-39
+A1147,2026-11-04,Bengaluru,General Medicine,Phone,Insured,57.0,19.0,22,600.0,7.1,0.86,OK,40-59
+A1129,2025-01-20,Bengaluru,General Medicine,Walk-in,Insured,52.0,44.0,15,400.0,7.1,2.93,OK,40-59
+A1145,2026-05-03,Mumbai,Cardiology,Online,Insured,46.0,40.0,16,1150.0,5.1,2.5,At Risk,40-59
+A1128,2025-04-15,Bengaluru,Pediatrics,Online,Insured,7.0,24.0,7,450.0,7.3,3.43,OK,0-14
+A1103,2026-03-09,Bengaluru,Cardiology,Phone,Insured,58.0,26.0,11,950.0,5.3,2.36,At Risk,40-59
+A1214,2025-03-10,Delhi,General Medicine,Online,Insured,42.0,47.0,13,400.0,4.6,3.62,At Risk,40-59
+A1053,2025-03-28,Bengaluru,Orthopaedics,Walk-in,Insured,48.0,39.0,26,650.0,6.4,1.5,OK,40-59
+A1111,2026-07-16,Delhi,Cardiology,Walk-in,Insured,85.0,35.0,14,1250.0,4.9,2.5,At Risk,60+
+A1086,2026-09-15,Pune,General Medicine,Phone,Insured,51.0,41.0,16,250.0,6.0,2.56,OK,40-59
+A1226,2026-06-28,Delhi,General Medicine,Online,Insured,36.0,45.0,21,400.0,6.8,2.14,OK,15-39
+A1200,2025-03-08,Bengaluru,Pediatrics,Walk-in,Insured,2.0,48.0,20,650.0,5.8,2.4,At Risk,0-14
+A1177,2026-04-16,Lucknow,General Medicine,Online,Insured,53.0,34.0,15,500.0,8.4,2.27,OK,40-59
+A1240,2025-12-07,Bengaluru,Cardiology,Walk-in,Insured,63.0,30.0,27,950.0,9.6,1.11,OK,60+
+A1159,2026-04-24,Lucknow,General Medicine,Walk-in,Insured,69.0,34.0,6,450.0,3.8,5.67,At Risk,60+
+A1173,2025-05-09,Bengaluru,General Medicine,Online,Insured,24.0,20.0,17,300.0,8.5,1.18,OK,15-39
+A1114,2026-03-16,Delhi,General Medicine,Walk-in,Insured,63.0,19.0,7,400.0,6.0,2.71,OK,60+
+A1075,2026-05-22,Pune,General Medicine,Online,Insured,72.0,31.0,15,550.0,5.3,2.07,At Risk,60+
+A1078,2025-05-02,Delhi,General Medicine,Walk-in,Self-Pay,25.0,21.0,9,450.0,8.1,2.33,OK,15-39
+A1130,2026-02-16,Delhi,Pediatrics,Phone,Self-Pay,3.0,19.0,15,500.0,6.6,1.27,OK,0-14
+A1250,2026-05-09,Mumbai,General Medicine,Walk-in,Insured,22.0,16.0,18,400.0,10.0,0.89,OK,15-39
+A1202,2026-06-18,Bengaluru,Orthopaedics,Online,Insured,50.0,29.0,10,900.0,6.9,2.9,OK,40-59
+A1146,2025-01-17,Bengaluru,Pediatrics,Walk-in,Self-Pay,14.0,8.0,12,600.0,7.0,0.67,OK,0-14
+A1132,2024-12-25,Delhi,General Medicine,Walk-in,Self-Pay,63.0,38.0,24,300.0,7.0,1.58,OK,60+
+A1230,2025-09-21,Mumbai,Pediatrics,Phone,Self-Pay,9.0,73.0,18,350.0,5.7,4.06,At Risk,0-14
+A1181,2026-10-09,Bengaluru,Pediatrics,Phone,Self-Pay,13.0,36.0,16,400.0,5.8,2.25,At Risk,0-14
+A1174,2025-06-13,Bengaluru,Cardiology,Walk-in,Insured,55.0,38.0,13,1200.0,5.0,2.92,At Risk,40-59
+A1243,2026-03-20,Delhi,General Medicine,Phone,Insured,30.0,43.0,17,350.0,9.3,2.53,OK,15-39
+A1150,2026-04-17,Mumbai,General Medicine,Online,Insured,44.0,44.0,24,300.0,8.5,1.83,OK,40-59
+A1057,2026-05-31,Bengaluru,Cardiology,Online,Insured,37.0,31.0,23,1200.0,6.8,1.35,OK,15-39
+A1156,2026-01-10,Pune,Orthopaedics,Walk-in,Self-Pay,24.0,31.0,18,650.0,5.1,1.72,At Risk,15-39
+A1015,2026-10-09,Lucknow,Orthopaedics,Phone,Self-Pay,45.0,26.0,25,650.0,8.5,1.04,OK,40-59
+A1070,2025-11-29,Delhi,Orthopaedics,Walk-in,Insured,61.0,34.0,19,700.0,6.4,1.79,OK,60+
+A1104,2026-06-28,Mumbai,General Medicine,Phone,Insured,50.0,14.0,16,400.0,7.7,0.88,OK,40-59
+A1154,2026-05-10,Mumbai,Orthopaedics,Phone,Insured,50.0,46.0,21,750.0,6.8,2.19,OK,40-59
+A1031,2024-11-22,Pune,Cardiology,Online,Self-Pay,57.0,6.0,21,1200.0,9.7,0.29,OK,40-59
+A1205,2025-07-03,Mumbai,Pediatrics,Online,Insured,10.0,25.0,11,550.0,6.2,2.27,OK,0-14
+A1119,2025-11-08,Bengaluru,Pediatrics,Walk-in,Self-Pay,3.0,32.0,17,700.0,7.4,1.88,OK,0-14
+A1180,2025-05-10,Bengaluru,General Medicine,Online,Insured,31.0,33.0,14,600.0,5.8,2.36,At Risk,15-39
+A1203,2025-10-10,Pune,General Medicine,Online,Insured,50.0,38.0,20,350.0,8.8,1.9,OK,40-59
+A1033,2026-09-27,Bengaluru,Pediatrics,Phone,Self-Pay,6.0,38.0,13,800.0,5.9,2.92,At Risk,0-14
+A1058,2025-08-26,Mumbai,Pediatrics,Online,Insured,13.0,42.0,6,700.0,5.0,7.0,At Risk,0-14
+A1105,2026-02-01,Pune,Pediatrics,Walk-in,Insured,10.0,57.0,16,300.0,5.4,3.56,At Risk,0-14
+A1207,2025-09-12,Bengaluru,General Medicine,Online,Self-Pay,28.0,27.0,10,200.0,5.1,2.7,At Risk,15-39
+A1161,2025-05-13,Pune,Cardiology,Walk-in,Self-Pay,47.0,11.0,24,1250.0,9.7,0.46,OK,40-59
+A1025,2025-06-17,Mumbai,General Medicine,Phone,Insured,29.0,44.0,16,550.0,6.6,2.75,OK,15-39
+A1001,2025-03-10,Bengaluru,General Medicine,Online,Self-Pay,47.0,11.0,7,500.0,8.1,1.57,OK,40-59
+A1004,2024-12-28,Lucknow,General Medicine,Walk-in,Insured,39.0,17.0,16,450.0,7.4,1.06,OK,15-39
+A1060,2025-06-19,Bengaluru,General Medicine,Phone,Insured,21.0,30.0,15,500.0,8.7,2.0,OK,15-39
+A1023,2026-08-20,Pune,Pediatrics,Phone,Insured,8.0,28.0,25,400.0,7.1,1.12,OK,0-14
+A1126,2026-07-27,Delhi,General Medicine,Phone,Insured,54.0,12.0,20,550.0,8.8,0.6,OK,40-59
+A1071,2024-12-25,Bengaluru,Cardiology,Walk-in,Self-Pay,67.0,38.0,16,1100.0,7.2,2.38,OK,60+
+A1149,2025-03-26,Pune,General Medicine,Walk-in,Insured,43.0,53.0,24,400.0,8.6,2.21,OK,40-59
+A1166,2026-06-30,Delhi,Pediatrics,Online,Insured,7.0,60.0,20,700.0,6.3,3.0,OK,0-14
+A1118,2026-09-18,Lucknow,Pediatrics,Phone,Insured,11.0,31.0,12,500.0,8.1,2.58,OK,0-14
+A1088,2026-06-14,Mumbai,General Medicine,Online,Insured,65.0,37.0,13,500.0,5.8,2.85,At Risk,60+
+A1229,2025-11-18,Lucknow,Orthopaedics,Online,Insured,59.0,31.0,7,850.0,5.5,4.43,At Risk,40-59
+A1112,2025-05-04,Delhi,Pediatrics,Walk-in,Insured,8.0,34.0,14,350.0,4.9,2.43,At Risk,0-14
+A1089,2025-02-06,Mumbai,Orthopaedics,Phone,Self-Pay,82.0,15.0,20,1050.0,8.4,0.75,OK,60+
+A1101,2025-02-15,Mumbai,General Medicine,Online,Insured,35.0,26.0,16,600.0,7.7,1.62,OK,15-39
+A1017,2026-07-22,Pune,Pediatrics,Walk-in,Insured,10.0,49.0,12,350.0,6.1,4.08,OK,0-14
+A1117,2026-06-05,Delhi,Pediatrics,Walk-in,Insured,1.0,38.0,20,200.0,6.6,1.9,OK,0-14
+A1182,2026-06-30,Delhi,Cardiology,Online,Self-Pay,39.0,28.0,10,1050.0,7.2,2.8,OK,15-39
+A1121,2026-06-03,Bengaluru,Orthopaedics,Walk-in,Insured,52.0,38.0,19,900.0,7.5,2.0,OK,40-59
+A1099,2026-06-15,Mumbai,Orthopaedics,Walk-in,Insured,19.0,35.0,15,800.0,4.9,2.33,At Risk,15-39
+A1231,2026-02-01,Bengaluru,General Medicine,Online,Self-Pay,53.0,10.0,11,600.0,6.9,0.91,OK,40-59
+A1224,2025-01-17,Delhi,Orthopaedics,Phone,Self-Pay,42.0,39.0,22,850.0,8.8,1.77,OK,40-59
+A1064,2025-04-14,Bengaluru,General Medicine,Online,Self-Pay,20.0,18.0,30,450.0,10.0,0.6,OK,15-39
+A1184,2026-07-02,Mumbai,Pediatrics,Online,Insured,9.0,5.0,16,450.0,10.0,0.31,OK,0-14
+A1028,2026-07-09,Delhi,General Medicine,Phone,Self-Pay,55.0,22.0,24,500.0,9.9,0.92,OK,40-59
+A1019,2025-06-28,Pune,Orthopaedics,Walk-in,Insured,18.0,17.0,17,850.0,7.6,1.0,OK,15-39
+A1237,2025-06-28,Mumbai,General Medicine,Online,Insured,40.0,39.0,16,500.0,8.7,2.44,OK,40-59
+A1035,2026-03-06,Lucknow,General Medicine,Phone,Self-Pay,7.0,19.0,6,600.0,7.3,3.17,OK,0-14
+A1041,2025-02-13,Delhi,General Medicine,Online,Insured,21.0,33.0,16,450.0,9.3,2.06,OK,15-39
+A1225,2025-09-05,Lucknow,Orthopaedics,Online,Insured,38.0,11.0,13,800.0,9.4,0.85,OK,15-39
+A1082,2024-12-23,Delhi,Pediatrics,Online,Insured,14.0,32.0,20,450.0,7.8,1.6,OK,0-14
+A1061,2025-01-12,Lucknow,General Medicine,Phone,Insured,48.0,32.0,14,350.0,6.5,2.29,OK,40-59
+A1190,2026-03-11,Pune,Cardiology,Phone,Insured,55.0,28.0,8,1100.0,6.6,3.5,OK,40-59
+A1007,2025-06-27,Lucknow,General Medicine,Online,Insured,33.0,21.0,20,350.0,8.7,1.05,OK,15-39
+A1191,2024-11-30,Bengaluru,Pediatrics,Phone,Self-Pay,13.0,38.0,20,400.0,8.2,1.9,OK,0-14
+A1087,2025-09-14,Mumbai,General Medicine,Online,Self-Pay,55.0,42.0,17,400.0,8.3,2.47,OK,40-59
+A1183,2024-11-30,Delhi,Pediatrics,Online,Insured,6.0,35.0,16,600.0,6.0,2.19,OK,0-14
+A1141,2025-06-27,Bengaluru,Pediatrics,Online,Self-Pay,2.0,57.0,9,550.0,6.3,6.33,OK,0-14
+A1199,2025-05-04,Delhi,Cardiology,Phone,Self-Pay,60.0,34.0,15,1050.0,6.6,2.27,OK,60+
+A1106,2026-02-06,Bengaluru,Cardiology,Phone,Self-Pay,30.0,48.0,22,1150.0,6.2,2.18,OK,15-39
+A1010,2025-09-30,Mumbai,Pediatrics,Walk-in,Self-Pay,9.0,31.0,19,450.0,7.4,1.63,OK,0-14
+A1024,2025-01-02,Bengaluru,Pediatrics,Online,Insured,12.0,23.0,17,450.0,10.0,1.35,OK,0-14
+A1228,2026-11-07,Mumbai,Pediatrics,Online,Insured,13.0,57.0,23,400.0,6.4,2.48,OK,0-14
+A1142,2026-04-24,Lucknow,General Medicine,Walk-in,Self-Pay,44.0,28.0,18,450.0,5.8,1.56,At Risk,40-59
+A1067,2025-02-16,Mumbai,Pediatrics,Online,Self-Pay,14.0,14.0,17,600.0,8.9,0.82,OK,0-14
+A1077,2024-12-30,Delhi,Cardiology,Online,Self-Pay,42.0,34.0,10,1150.0,6.6,3.4,OK,40-59
+A1044,2026-11-13,Bengaluru,General Medicine,Walk-in,Self-Pay,74.0,30.0,16,200.0,7.4,1.88,OK,60+
+A1073,2025-11-24,Delhi,Orthopaedics,Phone,Insured,43.0,44.0,22,850.0,7.4,2.0,OK,40-59
+A1188,2026-03-30,Mumbai,General Medicine,Online,Self-Pay,59.0,43.0,9,350.0,6.9,4.78,OK,40-59
+A1066,2024-11-22,Mumbai,General Medicine,Online,Insured,35.0,48.0,14,400.0,7.5,3.43,OK,15-39
+A1222,2026-02-16,Lucknow,General Medicine,Online,Insured,59.0,19.0,23,500.0,8.0,0.83,OK,40-59
+A1039,2024-11-27,Mumbai,Cardiology,Online,Insured,71.0,21.0,26,1000.0,10.0,0.81,OK,60+
+A1109,2025-07-08,Delhi,Pediatrics,Online,Self-Pay,9.0,8.0,28,600.0,10.0,0.29,OK,0-14
+A1178,2026-08-26,Lucknow,General Medicine,Online,Insured,36.0,36.0,12,300.0,7.4,3.0,OK,15-39
+A1090,2025-07-20,Mumbai,Cardiology,Phone,Insured,72.0,48.0,17,1200.0,6.9,2.82,OK,60+
+A1127,2026-09-26,Delhi,Pediatrics,Online,Insured,7.0,38.0,13,400.0,6.7,2.92,OK,0-14
+A1194,2026-07-21,Mumbai,General Medicine,Online,Insured,54.0,35.0,6,400.0,5.8,5.83,At Risk,40-59
+A1221,2026-08-10,Delhi,General Medicine,Online,Self-Pay,39.0,39.0,11,500.0,6.3,3.55,OK,15-39
+A1232,2025-09-11,Delhi,General Medicine,Online,Insured,33.0,34.0,14,550.0,8.0,2.43,OK,15-39
+A1115,2025-07-12,Mumbai,Pediatrics,Phone,Self-Pay,3.0,37.0,15,400.0,6.0,2.47,OK,0-14
+A1155,2026-09-29,Bengaluru,General Medicine,Walk-in,Insured,48.0,47.0,23,250.0,6.8,2.04,OK,40-59
+A1012,2026-05-27,Mumbai,Cardiology,Online,Self-Pay,59.0,34.0,13,950.0,6.2,2.62,OK,40-59
+A1096,2025-09-08,Lucknow,General Medicine,Online,Self-Pay,48.0,13.0,17,450.0,8.3,0.76,OK,40-59
+A1246,2025-07-05,Delhi,General Medicine,Online,Insured,58.0,44.0,23,300.0,7.7,1.91,OK,40-59
+A1187,2025-08-31,Bengaluru,Cardiology,Online,Self-Pay,57.0,36.0,13,1250.0,7.8,2.77,OK,40-59
+A1216,2025-09-16,Bengaluru,Cardiology,Phone,Self-Pay,47.0,33.0,12,1050.0,6.8,2.75,OK,40-59
+A1030,2024-11-21,Bengaluru,General Medicine,Walk-in,Insured,45.0,43.0,11,500.0,5.2,3.91,At Risk,40-59
+A1235,2025-05-22,Mumbai,General Medicine,Online,Insured,50.0,33.0,18,250.0,8.5,1.83,OK,40-59
+A1186,2025-11-10,Mumbai,Orthopaedics,Online,Insured,21.0,10.0,17,500.0,10.0,0.59,OK,15-39
+A1170,2026-10-16,Lucknow,Pediatrics,Phone,Insured,14.0,18.0,10,350.0,8.2,1.8,OK,0-14
+A1169,2026-04-11,Pune,General Medicine,Phone,Insured,49.0,26.0,19,250.0,6.2,1.37,OK,40-59
+A1038,2025-10-21,Delhi,Pediatrics,Online,Self-Pay,1.0,10.0,20,700.0,9.1,0.5,OK,0-14
+A1116,2025-09-24,Bengaluru,Pediatrics,Phone,Insured,14.0,50.0,19,600.0,7.0,2.63,OK,0-14
+A1164,2025-05-08,Bengaluru,Cardiology,Online,Self-Pay,68.0,24.0,11,1150.0,7.5,2.18,OK,60+
+A1027,2026-03-26,Mumbai,Cardiology,Phone,Insured,58.0,34.0,19,1300.0,6.0,1.79,OK,40-59
+A1137,2026-08-25,Bengaluru,General Medicine,Phone,Self-Pay,30.0,23.0,15,400.0,8.1,1.53,OK,15-39
+A1100,2026-03-20,Pune,General Medicine,Phone,Insured,29.0,38.0,13,400.0,6.7,2.92,OK,15-39
+A1040,2025-08-03,Delhi,Cardiology,Phone,Insured,49.0,32.0,16,1150.0,6.3,2.0,OK,40-59
+A1213,2026-07-28,Bengaluru,Cardiology,Walk-in,Insured,66.0,23.0,15,1150.0,6.2,1.53,OK,60+
+A1223,2024-11-29,Delhi,General Medicine,Online,Self-Pay,26.0,34.0,24,350.0,10.0,1.42,OK,15-39
+A1074,2025-06-06,Delhi,Orthopaedics,Walk-in,Self-Pay,40.0,42.0,20,850.0,7.2,2.1,OK,40-59
+A1110,2025-10-23,Delhi,Orthopaedics,Online,Insured,50.0,26.0,6,850.0,6.5,4.33,OK,40-59
+A1151,2025-12-17,Mumbai,General Medicine,Online,Insured,37.0,38.0,19,400.0,7.9,2.0,OK,15-39
+A1131,2025-05-02,Pune,General Medicine,Online,Self-Pay,54.0,45.0,15,200.0,6.6,3.0,OK,40-59
+A1076,2026-05-23,Lucknow,General Medicine,Online,Insured,15.0,47.0,21,400.0,7.6,2.24,OK,15-39
+A1065,2026-10-29,Lucknow,Pediatrics,Phone,Self-Pay,1.0,19.0,11,450.0,9.1,1.73,OK,0-14
+A1217,2025-12-16,Mumbai,Orthopaedics,Walk-in,Insured,44.0,42.0,10,850.0,5.7,4.2,At Risk,40-59
+A1083,2026-10-02,Mumbai,General Medicine,Walk-in,Self-Pay,45.0,27.0,17,200.0,7.9,1.59,OK,40-59
+A1043,2025-11-29,Mumbai,Orthopaedics,Online,Self-Pay,62.0,37.0,20,850.0,7.4,1.85,OK,60+
+A1084,2026-07-28,Lucknow,Orthopaedics,Online,Insured,44.0,53.0,19,650.0,6.4,2.79,OK,40-59
+A1034,2025-06-03,Lucknow,Orthopaedics,Walk-in,Self-Pay,39.0,57.0,12,750.0,5.1,4.75,At Risk,15-39
+A1168,2025-02-05,Bengaluru,General Medicine,Walk-in,Insured,29.0,40.0,15,250.0,6.0,2.67,OK,15-39
+A1189,2025-02-01,Delhi,Cardiology,Walk-in,Self-Pay,68.0,45.0,10,1200.0,5.4,4.5,At Risk,60+
+A1072,2026-06-02,Pune,Cardiology,Walk-in,Insured,80.0,21.0,18,1050.0,7.5,1.17,OK,60+
+A1013,2026-01-13,Mumbai,Cardiology,Online,Insured,66.0,15.0,16,1150.0,7.4,0.94,OK,60+
+A1172,2025-10-29,Delhi,Cardiology,Phone,Self-Pay,39.0,9.0,11,900.0,5.2,0.82,At Risk,15-39
+A1005,2025-12-25,Delhi,Orthopaedics,Phone,Self-Pay,38.0,23.0,17,750.0,7.6,1.35,OK,15-39
+A1002,2026-07-15,Bengaluru,General Medicine,Phone,Insured,62.0,50.0,20,400.0,6.2,2.5,OK,60+
+A1091,2025-08-14,Lucknow,General Medicine,Online,Insured,66.0,15.0,16,450.0,8.5,0.94,OK,60+
+A1185,2026-06-02,Mumbai,Cardiology,Walk-in,Insured,56.0,73.0,22,1050.0,5.7,3.32,At Risk,40-59
+A1227,2026-09-25,Bengaluru,General Medicine,Online,Self-Pay,31.0,15.0,18,450.0,7.3,0.83,OK,15-39
+A1198,2025-05-28,Delhi,Pediatrics,Phone,Insured,4.0,33.0,20,500.0,7.7,1.65,OK,0-14
+A1234,2024-12-15,Pune,Pediatrics,Online,Insured,11.0,40.0,14,450.0,7.0,2.86,OK,0-14
+A1204,2026-01-24,Mumbai,Orthopaedics,Phone,Insured,55.0,27.0,13,650.0,6.1,2.08,OK,40-59
+A1241,2025-09-08,Delhi,Orthopaedics,Online,Insured,54.0,39.0,8,750.0,4.9,4.88,At Risk,40-59
+A1144,2025-09-18,Lucknow,Orthopaedics,Online,Insured,61.0,42.0,14,1000.0,5.6,3.0,At Risk,60+
+A1108,2025-03-25,Mumbai,Pediatrics,Walk-in,Insured,8.0,41.0,16,300.0,6.1,2.56,OK,0-14
+A1209,2026-10-28,Delhi,General Medicine,Walk-in,Insured,49.0,24.0,15,200.0,5.1,1.6,At Risk,40-59
+A1107,2025-09-15,Mumbai,Pediatrics,Walk-in,Self-Pay,11.0,35.0,16,500.0,5.5,2.19,At Risk,0-14
+A1062,2025-05-21,Lucknow,Pediatrics,Walk-in,Insured,2.0,21.0,17,600.0,8.8,1.24,OK,0-14
+A1094,2025-05-29,Lucknow,Orthopaedics,Online,Self-Pay,19.0,53.0,17,750.0,6.0,3.12,OK,15-39
+A1162,2026-11-01,Delhi,Pediatrics,Online,Self-Pay,1.0,26.0,18,600.0,8.0,1.44,OK,0-14
+A1097,2025-07-08,Delhi,Cardiology,Online,Self-Pay,67.0,21.0,15,1000.0,5.9,1.4,At Risk,60+
+A1049,2026-07-22,Mumbai,General Medicine,Online,Insured,11.0,40.0,17,650.0,7.1,2.35,OK,0-14
+A1048,2026-04-02,Bengaluru,Orthopaedics,Walk-in,Self-Pay,51.0,42.0,19,600.0,7.5,2.21,OK,40-59
+A1008,2026-06-24,Delhi,General Medicine,Phone,Self-Pay,35.0,51.0,26,400.0,7.0,1.96,OK,15-39
+A1036,2025-11-15,Delhi,Pediatrics,Phone,Insured,8.0,38.0,10,600.0,6.2,3.8,OK,0-14
+A1201,2025-05-15,Bengaluru,Orthopaedics,Walk-in,Insured,61.0,20.0,19,850.0,9.0,1.05,OK,60+
+A1244,2026-05-27,Delhi,General Medicine,Phone,Self-Pay,55.0,34.0,26,550.0,10.0,1.31,OK,40-59
+A1011,2026-10-18,Lucknow,General Medicine,Phone,Insured,31.0,42.0,17,400.0,6.9,2.47,OK,15-39
+A1124,2025-05-21,Delhi,Orthopaedics,Phone,Insured,34.0,31.0,12,550.0,4.6,2.58,At Risk,15-39
+A1029,2025-12-11,Pune,General Medicine,Phone,Insured,45.0,50.0,18,250.0,6.4,2.78,OK,40-59
+A1236,2025-06-15,Mumbai,Pediatrics,Phone,Insured,9.0,46.0,19,450.0,8.7,2.42,OK,0-14
+A1175,2025-06-17,Mumbai,General Medicine,Online,Self-Pay,12.0,52.0,21,300.0,7.4,2.48,OK,0-14
+A1042,2025-04-07,Mumbai,General Medicine,Walk-in,Insured,3.0,48.0,20,400.0,5.9,2.4,At Risk,0-14
+A1157,2026-07-07,Bengaluru,Orthopaedics,Online,Insured,58.0,39.0,14,950.0,5.7,2.79,At Risk,40-59
+A1134,2026-10-27,Mumbai,General Medicine,Phone,Self-Pay,45.0,35.0,9,400.0,5.5,3.89,At Risk,40-59
+A1052,2025-09-08,Pune,General Medicine,Online,Self-Pay,18.0,23.0,18,450.0,9.7,1.28,OK,15-39
+A1059,2026-08-19,Lucknow,Pediatrics,Online,Insured,2.0,27.0,18,400.0,9.5,1.5,OK,0-14
+A1160,2025-08-07,Lucknow,Orthopaedics,Online,Insured,49.0,34.0,13,850.0,7.9,2.62,OK,40-59
+A1171,2025-01-23,Pune,General Medicine,Online,Self-Pay,25.0,52.0,12,250.0,6.1,4.33,OK,15-39
+A1080,2026-01-18,Delhi,Cardiology,Walk-in,Insured,46.0,33.0,17,1200.0,6.9,1.94,OK,40-59
+A1113,2025-10-30,Delhi,Orthopaedics,Walk-in,Insured,57.0,34.0,17,700.0,8.9,2.0,OK,40-59
+A1140,2025-08-14,Mumbai,Orthopaedics,Walk-in,Insured,51.0,55.0,16,600.0,5.2,3.44,At Risk,40-59
+A1092,2026-01-25,Mumbai,General Medicine,Online,Insured,40.0,54.0,14,300.0,7.1,3.86,OK,40-59
+A1045,2026-11-03,Mumbai,Orthopaedics,Online,Insured,45.0,28.0,15,800.0,7.4,1.87,OK,40-59
+A1248,2025-11-25,Mumbai,Pediatrics,Online,Self-Pay,14.0,21.0,10,750.0,7.3,2.1,OK,0-14
+A1050,2026-02-11,Delhi,General Medicine,Online,Self-Pay,53.0,27.0,17,400.0,9.0,1.59,OK,40-59
+A1247,2026-05-20,Delhi,Pediatrics,Walk-in,Self-Pay,1.0,29.0,20,650.0,5.3,1.45,At Risk,0-14
+A1212,2025-06-23,Delhi,Orthopaedics,Walk-in,Self-Pay,49.0,48.0,17,650.0,6.6,2.82,OK,40-59
+A1120,2024-12-14,Delhi,General Medicine,Walk-in,Insured,12.0,51.0,14,350.0,5.5,3.64,At Risk,0-14
+A1020,2026-10-15,Delhi,General Medicine,Phone,Insured,36.0,13.0,12,350.0,6.7,1.08,OK,15-39
+A1081,2025-02-10,Pune,Pediatrics,Walk-in,Insured,13.0,16.0,14,450.0,7.2,1.14,OK,0-14
+A1242,2026-08-12,Lucknow,Pediatrics,Walk-in,Self-Pay,2.0,19.0,14,500.0,6.7,1.36,OK,0-14
+A1068,2025-09-10,Mumbai,General Medicine,Walk-in,Self-Pay,34.0,37.0,18,350.0,6.5,2.06,OK,15-39
+A1195,2026-07-12,Delhi,Orthopaedics,Phone,Self-Pay,39.0,22.0,16,800.0,6.9,1.38,OK,15-39
